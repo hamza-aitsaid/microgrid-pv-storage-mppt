@@ -11,6 +11,4 @@ Ce projet présente la modélisation et la simulation sous MATLAB/Simulink d'un 
 ### Outils & Environnement
 MATLAB / Simulink, Simscape Electrical (powergui).
 
----
-**Auteur :** Hamza AIT SAID  
-Élève-Ingénieur en Génie Électrique — ESIGELEC
+
